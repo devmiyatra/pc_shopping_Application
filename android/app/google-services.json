@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027570588895",
+    "project_id": "pc-shopping-7b306",
+    "storage_bucket": "pc-shopping-7b306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027570588895:android:8479eec4ea6a96fdd21d6a",
+        "android_client_info": {
+          "package_name": "com.example.pc_shopping_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027570588895-96i1shjlsq4nlc6d8t1raqeaqt12hd8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98Ed9Jh9Y7SGzKkYbCzCaQVjXEcS6tNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027570588895-96i1shjlsq4nlc6d8t1raqeaqt12hd8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
