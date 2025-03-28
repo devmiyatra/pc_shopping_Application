@@ -21,3 +21,17 @@ A simple and user-friendly **E-commerce Android Application** developed using **
 ## 📸 Screenshots
 
 
+
+## 📌 How to Run
+
+1. Clone the repository
+2. Open the project in **Android Studio / VS Code**
+3. Run `flutter pub get`
+4. Set up your **Firebase Project** and add `google-services.json`
+5. Run the project on Emulator or Physical Device
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
