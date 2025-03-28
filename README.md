@@ -20,7 +20,7 @@ A simple and user-friendly **E-commerce Android Application** developed using **
 
 ## 📸 Screenshots
 
-###| Login Screen |
+| Login Screen |
 |------------|--------------|---------------|
 ![CreateAccount](assets/Screenshots/Picture3.jpg)
 ![Login](assets/Screenshots/Picture4.jpg)
