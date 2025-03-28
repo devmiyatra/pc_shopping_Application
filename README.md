@@ -1,16 +1,23 @@
-# pc_shopping_application
+# 🛒 PC Shopping Application
 
-A new Flutter project.
+A simple and user-friendly **E-commerce Android Application** developed using **Flutter & Firebase**, where users can browse, buy, and track their orders related to PC components and gadgets.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📱 Clean & Attractive UI
+- 🔍 Browse PC components & gadgets
+- ❤️ Add products to Wishlist
+- 🛒 Secure Payment Integration via **Razorpay**
+- 🚚 Real-time Order Tracking
+- 🔄 Real-time Database Sync for smooth performance
+- 📂 Firebase Authentication & Database
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tools & Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Firebase**
+- **Razorpay Payment Gateway**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+
