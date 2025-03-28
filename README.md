@@ -19,7 +19,7 @@ A simple and user-friendly **E-commerce Android Application** developed using **
 - **Razorpay Payment Gateway**
 
 ## 📸 Screenshots
-
+![Picture1](https://github.com/user-attachments/assets/d78d83f8-188b-435a-aca1-89e8d2bb5f17)
 
 
 ## 📌 How to Run
