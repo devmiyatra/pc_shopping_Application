@@ -1,16 +1,57 @@
-# pc_shopping_application
+# 🛒 PC Shopping Application
 
-A new Flutter project.
+A simple and user-friendly **E-commerce Android Application** developed using **Flutter & Firebase**, where users can browse, buy, and track their orders related to PC components and gadgets.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📱 Clean & Attractive UI
+- 🔍 Browse PC components & gadgets
+- ❤️ Add products to Wishlist
+- 🛒 Secure Payment Integration via **Razorpay**
+- 🚚 Real-time Order Tracking
+- 🔄 Real-time Database Sync for smooth performance
+- 📂 Firebase Authentication & Database
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tools & Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Firebase**
+- **Razorpay Payment Gateway**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Login Screen |
+![CreateAccount](assets/Screenshots/Picture3.jpg)
+![Login](assets/Screenshots/Picture4.jpg)
+| Home Screen |
+![Home](assets/Screenshots/Picture5.jpg)
+![Home](assets/Screenshots/Picture6.jpg)
+| Searching |
+![Search](assets/Screenshots/Picture7.jpg)
+| Wishlist |
+![Wishlist](assets/Screenshots/Picture8.jpg)
+| Payment & order details |
+![Payment](assets/Screenshots/Picture9.jpg)
+![Success](assets/Screenshots/Picture10.jpg)
+![orders](assets/Screenshots/Picture11.jpg)
+![Favourites](assets/Screenshots/Picture12.jpg)
+|Profile|
+![Profile](assets/Screenshots/Picture13.jpg)
+![Profile](assets/Screenshots/Picture14.jpg)
+![Profile](assets/Screenshots/Picture15.jpg)
+![Profile](assets/Screenshots/Picture16.jpg)
+
+
+## 📌 How to Run
+
+1. Clone the repository
+2. Open the project in **Android Studio / VS Code**
+3. Run `flutter pub get`
+4. Set up your **Firebase Project** and add `google-services.json`
+5. Run the project on Emulator or Physical Device
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
