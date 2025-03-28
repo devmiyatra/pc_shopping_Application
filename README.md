@@ -20,22 +20,28 @@ A simple and user-friendly **E-commerce Android Application** developed using **
 
 ## 📸 Screenshots
 
-| Login Screen |
+###| Login Screen |
+|------------|--------------|---------------|
 ![CreateAccount](assets/Screenshots/Picture3.jpg)
 ![Login](assets/Screenshots/Picture4.jpg)
 | Home Screen |
+|------------|--------------|---------------|
 ![Home](assets/Screenshots/Picture5.jpg)
 ![Home](assets/Screenshots/Picture6.jpg)
 | Searching |
+|------------|--------------|---------------|
 ![Search](assets/Screenshots/Picture7.jpg)
 | Wishlist |
+|------------|--------------|---------------|
 ![Wishlist](assets/Screenshots/Picture8.jpg)
 | Payment & order details |
+|------------|--------------|---------------|
 ![Payment](assets/Screenshots/Picture9.jpg)
 ![Success](assets/Screenshots/Picture10.jpg)
 ![orders](assets/Screenshots/Picture11.jpg)
 ![Favourites](assets/Screenshots/Picture12.jpg)
 |Profile|
+|------------|--------------|---------------|
 ![Profile](assets/Screenshots/Picture13.jpg)
 ![Profile](assets/Screenshots/Picture14.jpg)
 ![Profile](assets/Screenshots/Picture15.jpg)
